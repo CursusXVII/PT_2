@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+  main.cpp
+C:\Users\david\source\repos\ToP Lab 2\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  ToP Lab 2.vcxproj -> C:\Users\david\source\repos\ToP Lab 2\Debug\ToP Lab 2.exe
